@@ -1,3 +1,7 @@
 hello world
 i am great
-test merge
+<<<<<<< HEAD
+merge
+=======
+merge
+>>>>>>> dev
