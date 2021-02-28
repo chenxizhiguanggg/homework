@@ -7,7 +7,7 @@ cout<<"hello world";
 int a;
 cin>>a;
 cout<<a;
-
+cout<<a;
 return 0;
 
 
