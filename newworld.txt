@@ -7,6 +7,8 @@ cout<<"hello world";
 int a;
 cin>>a;
 cout<<a;
+if(a==1)
+ cout<<a;
 
 return 0;
 
