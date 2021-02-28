@@ -9,6 +9,7 @@ cin>>a;
 cout<<a;
 if(a==1)
  cout<<a;
+ what?
 return 0;
 
 
